@@ -9,7 +9,7 @@ Made a Beautiful Landing Page
 ___
 Click here to go the home page which is deployed via Netlify.
 
-[Click me]()
+[Click me](https://elaborate-froyo-f57c37.netlify.app)
 
 ### Screenshots
 ___
